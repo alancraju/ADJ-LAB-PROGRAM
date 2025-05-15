@@ -2,6 +2,7 @@
 // the color "Red" is available or not 
 // ( Hint : Use ArrayListObj.contains() )
 
+
 import java.util.ArrayList;
 import java.util.List;
 
