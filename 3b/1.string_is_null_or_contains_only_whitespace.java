@@ -2,6 +2,7 @@
 // defined function isNullOrEmpty().?
   
 package lab3;
+
 import java.util.Scanner;
 public class exp1 {
 	    public static boolean isNullOrEmpty(String str) {
