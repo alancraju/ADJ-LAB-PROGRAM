@@ -52,7 +52,7 @@
 
 5b.Output: https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/5b.To%20Create%20a%20Tabbed%20Pan/5boutput.png
 
-5c.Output: https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/5c/5coutput.png
+5c.Output: https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/5c.Capital%20Of%20Countries/5coutput%20(1).png
 
 5d.Output: https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/5d.Tabbed%20Pan%20of%20Cyan%2C%20Magenta%20and%20Yellow/Screenshot%202025-05-22%20151727.png
 
