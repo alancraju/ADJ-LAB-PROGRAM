@@ -1,18 +1,24 @@
 # ADJ-LAB-PROGRAM
 
-1a.Output:https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1a.ArrayList%20And%20LinkedList%20Operations/arrayList.png
+1a. ListInterfaceDemo.java
+https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1a.ArrayList%20And%20LinkedList%20Operations/arrayList.png
 
 1b.Output
 
-  delete nth element:https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1b.%20Array%20List%20programs/Screenshot%202025-05-21%20230145.png
+  1. delete nth element:
+    https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1b.%20Array%20List%20programs/Screenshot%202025-05-21%20230145.png
   
-  extract elements:https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1b.%20Array%20List%20programs/Screenshot%202025-05-21%20230236.png
+  2. extract elements:
+    https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1b.%20Array%20List%20programs/Screenshot%202025-05-21%20230236.png
   
-  getting different colors through Arraylist Interface:https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1b.%20Array%20List%20programs/getting%20different%20colors%20through%20ArrayList%20interface.png
+  3. getting different colors through Arraylist Interface:
+    https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1b.%20Array%20List%20programs/getting%20different%20colors%20through%20ArrayList%20interface.png
   
-  removing elements:https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1b.%20Array%20List%20programs/Screenshot%202025-05-21%20230318.png
+  4.removing elements:
+  https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1b.%20Array%20List%20programs/Screenshot%202025-05-21%20230318.png
   
-  sorthing:https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1b.%20Array%20List%20programs/Screenshot%202025-05-21%20230400.png
+  5. sorthing:
+     https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1b.%20Array%20List%20programs/Screenshot%202025-05-21%20230400.png
   
 1c.Output:
 
