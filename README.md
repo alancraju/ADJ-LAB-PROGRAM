@@ -109,7 +109,8 @@ https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3a.String%20Handling%20Fu
 
 8d.Output:
     1. https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/8d.JDBC%20project%20using%20JDBC%20to%20update%20the%20fields/Screenshot%202025-05-22%20002024.png
-    2. https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/8d.JDBC%20project%20using%20JDBC%20to%20update%20the%20fields/Screenshot%202025-05-22%20002043.png
+   
+    2. https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/8d.JDBC%20project%20using%20JDBC%20to%20update%20the%20fields/Screenshot%202025-05-22%20002043.pn
 
 9a.Output:
      1. https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/9a.Read%20existing%20records%20from%20the%20database/9a1output.png
