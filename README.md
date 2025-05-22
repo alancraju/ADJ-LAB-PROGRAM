@@ -54,7 +54,7 @@
 
 5c.Output: https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/5c/5coutput.png
 
-5d.Output: https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/5d/5doutput.png
+5d.Output: https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/5d.Tabbed%20Pan%20of%20Cyan%2C%20Magenta%20and%20Yellow/Screenshot%202025-05-22%20151727.png
 
 6a.Output: https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/6a.servlet%20program%20to%20find%20the%20factorial/6aoutput.png
 
