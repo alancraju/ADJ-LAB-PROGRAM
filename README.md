@@ -108,7 +108,7 @@ https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3a.String%20Handling%20Fu
      https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/8c.JDBC%20project%20using%20JSP%20for%20%20employee%20database/Screenshot%202025-05-22%20001820.png
 
 8d.Output:
-    1. https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/8d.JDBC%20project%20using%20JDBC%20to%20update%20the%20fields/Screenshot%202025-05-22%20002024.png
+  1. https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/8d.JDBC%20project%20using%20JDBC%20to%20update%20the%20fields/Screenshot%202025-05-22%20002024.png
     
   2.https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/8d.JDBC%20project%20using%20JDBC%20to%20update%20the%20fields/Screenshot%202025-05-22%20002043.png
    
