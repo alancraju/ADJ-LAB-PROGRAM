@@ -6,8 +6,7 @@
 
   delete nth element:https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1b.%20Array%20List%20programs/Screenshot%202025-05-21%20230145.png
   extract elements:https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1b.%20Array%20List%20programs/Screenshot%202025-05-21%20230236.png
-  getting different colors through Arraylist Interface:https://github.com/alancraju/ADJ-LAB- 
-   PROGRAM/blob/main/1b.%20Array%20List%20programs/getting%20different%20colors%20through%20ArrayList%20interface.png
+  getting different colors through Arraylist Interface:https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1b.%20Array%20List%20programs/getting%20different%20colors%20through%20ArrayList%20interface.png
   removing elements:https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1b.%20Array%20List%20programs/Screenshot%202025-05-21%20230318.png
   sorthing:https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1b.%20Array%20List%20programs/Screenshot%202025-05-21%20230400.png
   
