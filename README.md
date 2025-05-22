@@ -22,23 +22,39 @@ https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1a.ArrayList%20And%20Link
   
 1c.Output:
 
-   https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1c.%20Linked%20List%20Programs/Screenshot%202025-05-21%20230721.png
-  https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1c.%20Linked%20List%20Programs/Screenshot%202025-05-21%20230805.png
-   https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1c.%20Linked%20List%20Programs/Screenshot%202025-05-21%20230834.png
-   https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1c.%20Linked%20List%20Programs/Screenshot%202025-05-21%20230902.png
-   https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1c.%20Linked%20List%20Programs/Screenshot%202025-05-21%20230932.png
+   pr6: https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1c.%20Linked%20List%20Programs/Screenshot%202025-05-21%20230805.png
    
-2a.Output: https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/2a.String%20Operations/Screenshot%202025-05-21%20231307.png
+   pr7:  https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1c.%20Linked%20List%20Programs/Screenshot%202025-05-21%20230834.png
+   
+   pr8: https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1c.%20Linked%20List%20Programs/Screenshot%202025-05-21%20230902.png
+   
+   pr9: https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1c.%20Linked%20List%20Programs/Screenshot%202025-05-21%20230932.png
+   
+   pr10: https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/1c.%20Linked%20List%20Programs/Screenshot%202025-05-21%20230721.png
+  
+2a.Output: 
+https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/2a.String%20Operations/Screenshot%202025-05-21%20231307.png
 
-2b.Output:https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/2b.StringBuffer%20and%20StringBuilder/2boutput.png
+2b.Output:
+https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/2b.StringBuffer%20and%20StringBuilder/2boutput.png
 
-3a.Output:https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3a.String%20Handling%20Functions/3aoutput.png
+3a.Output:
+https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3a.String%20Handling%20Functions/3aoutput.png
 
 3b.output:
+   1.string_is_null_or_contains_only_whitespace.java:
    https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3b.String%20Exercise%20progams/Screenshot%202025-05-21%20232016.png
+
+   2.how_many_times_a_substring_appears_in_a_main_string.java:
    https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3b.String%20Exercise%20progams/Screenshot%202025-05-21%20232130.png
+
+   3.Reversing_the_characters.java:
    https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3b.String%20Exercise%20progams/Screenshot%202025-05-21%20232213.png
+
+   4.Checking_Palindrome.java:
    https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3b.String%20Exercise%20progams/Screenshot%202025-05-21%20232301.png
+
+   5.Eliminating_all_whitespace_characters.java
    https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3b.String%20Exercise%20progams/Screenshot%202025-05-21%20232346.png
 
 3c.Output:
