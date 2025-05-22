@@ -58,11 +58,21 @@ https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3a.String%20Handling%20Fu
    https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3b.String%20Exercise%20progams/Screenshot%202025-05-21%20232346.png
 
 3c.Output:
-  1 .  https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3c/Screenshot%202025-05-21%20233850.png
-  2.  https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3c/Screenshot%202025-05-21%20233935.png
-  3.  https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3c/Screenshot%202025-05-21%20234020.png
-  4.  https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3c/Screenshot%202025-05-21%20234124.png
-  5.  https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3c/Screenshot%202025-05-21%20234219.png
+
+   1.Capitalizing the first letter .java
+   https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3c/Screenshot%202025-05-21%20233850.png
+
+   2.Shortening_a_string_to_a_specified_length.java:
+   https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3c/Screenshot%202025-05-21%20233935.png
+
+   3.Verifying_String_contains_only_numeric_characters.java:
+   https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3c/Screenshot%202025-05-21%20234020.png
+
+   4.Creating_random_string_of_specified_length.java:
+   https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3c/Screenshot%202025-05-21%20234124.png
+
+   5. Counting_the_number_of_words.java:
+   https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/3c/Screenshot%202025-05-21%20234219.png
   
 4a.Output: https://github.com/alancraju/ADJ-LAB-PROGRAM/blob/main/4a.Swing%20Hello%20Program/4aoutput.png
 
